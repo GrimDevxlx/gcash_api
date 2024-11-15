@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": "",
+    "type": "event",
+    "attributes": {
+      "type": "payment.paid",
+      "livemode": false,
+      "data": {
+        "id": "",
+        "type": "payment",
+        "attributes": {
+          "access_url": null,
+          "amount": 20050,
+          "balance_transaction_id": "",
+          "billing": null,
+          "currency": "PHP",
+          "description": null,
+          "disputed": false,
+          "external_reference_number": null,
+          "fee": 501,
+         "livemode": false,
+          "net_amount": 19469,
+          "origin": "api",
+          "payment_intent_id": null,
+          "payout": null,
+          "source": {
+            "id": "",
+            "type": "gcash"
+          },
+          "statement_descriptor": "PAYMONGO",
+          "status": "paid",
+          "tax_amount": null,
+          "refunds": [],
+          "taxes": [],
+          "available_at": 1630659600,
+          "created_at": 1630463172,
+          "paid_at": 1630463172,
+          "updated_at": 1630463172
+        }
+      },
+      "previous_data": {},
+      "created_at": 1630463172,
+      "updated_at": 1630463172
+    }
+  }
+}
